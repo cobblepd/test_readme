@@ -29,6 +29,10 @@ if __name__ == '__main__':
    asyncio.run(dp.start_polling(bot))
 ```
 
+- [ ] Feature 1
+- [ ] Feature 2
+- [ ] Feature 3
+    - [ ] Nested Feature
 
 
 # Список 
