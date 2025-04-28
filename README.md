@@ -34,6 +34,10 @@ if __name__ == '__main__':
 - [ ] Feature 3
     - [ ] Nested Feature
 
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `api_key` | `string` | **Required**. Your API key |
+
 
 # Список 
 - Пункт 1
