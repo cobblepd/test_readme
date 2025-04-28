@@ -35,14 +35,15 @@ if __name__ == '__main__':
     - [ ] Nested Feature
 
 | Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
 | `api_key` | `string` | **Required**. Your API key |
 | `api_key` | `string` | **Required**. Your API key |
-| :-------- | :------- | :------------------------- |
 | `api_key` | `string` | **Required**. Your API key |
-| :-------- | :------- | :------------------------- |
 | `api_key` | `string` | **Required**. Your API key |
 
+
+| 1 | 2 | 3 |
+| 1 | 2 | 3 |
+| 1 | 2 | 3 |
 
 # Список 
 - Пункт 1
