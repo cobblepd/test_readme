@@ -6,7 +6,8 @@
 ## Ссылки
 [Описание](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)
 ![Описание картинки](https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d9/Emoticon_happytears.gif/revision/latest?cb=20180504011633)
-
+https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2d/Emoticon_Ranked_Top100.png/revision/latest?cb=20190130004721
+![Описание картинки](https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2d/Emoticon_Ranked_Top100.png/revision/latest?cb=20190130004721)
 ```
 import asyncio
 from aiogram import Bot, Dispatcher, types, filters
